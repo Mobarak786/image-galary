@@ -1,2 +1,2 @@
 # image-galary
-Searching and downlding unlimited images free. 
+Searching and downloading unlimited images free. 
