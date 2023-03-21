@@ -71,7 +71,7 @@ function App() {
           />
           <div
             className=" bg-gray-200 p-2 flex items-center h-[45px]
-                     w-[200px] hover:ring-1 rounded-md md:w-[420px]"
+                     w-[350px] hover:ring-1 rounded-md md:w-[420px]"
           >
             <img
               onClick={handleSearch}
